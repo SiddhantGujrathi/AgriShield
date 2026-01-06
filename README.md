@@ -48,9 +48,9 @@ This project uses a Convolutional Neural Network (CNN) to detect grape leaf dise
 ---
 
 ## 📁 Project Files
-- `Grape_Leaf_Disease_Detection.ipynb` – Training and evaluation notebook  
-- `model.tflite` – Optimized TensorFlow Lite model  
-
+- Grape_Leaf_Disease_Detection.ipynb – Training and evaluation notebook  
+- model.tflite – Optimized TensorFlow Lite model  
+- [dataset link](https://drive.google.com/drive/folders/1KYtvIZ7jYmIsy_DSGT3JeiZ1BS9brnwH?usp=drive_link)
 ---
 
 ## 🎯 Applications
